@@ -5,3 +5,5 @@ pip install numpy
 pip install matplotlib
 pip install jupyter
 pip install ipympl
+pip install pandas
+pip install -U scikit-learn
